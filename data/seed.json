@@ -116,7 +116,7 @@
   ],
   "products": [
     {
-      "title": "Medusa T-Shirt",
+      "title": "Kirana T-Shirt",
       "subtitle": null,
       "description": "Reimagine the feeling of a classic T-shirt. With our cotton T-shirts, everyday essentials no longer have to be ordinary.",
       "handle": "t-shirt",
@@ -326,7 +326,7 @@
       ]
     },
     {
-      "title": "Medusa Sweatshirt",
+      "title": "Kirana Sweatshirt",
       "subtitle": null,
       "description": "Reimagine the feeling of a classic sweatshirt. With our cotton sweatshirt, everyday essentials no longer have to be ordinary.",
       "handle": "sweatshirt",
@@ -426,7 +426,7 @@
       ]
     },
     {
-      "title": "Medusa Sweatpants",
+      "title": "Kirana Sweatpants",
       "subtitle": null,
       "description": "Reimagine the feeling of classic sweatpants. With our cotton sweatpants, everyday essentials no longer have to be ordinary.",
       "handle": "sweatpants",
@@ -526,7 +526,7 @@
       ]
     },
     {
-      "title": "Medusa Shorts",
+      "title": "Kirana Shorts",
       "subtitle": null,
       "description": "Reimagine the feeling of classic shorts. With our cotton shorts, everyday essentials no longer have to be ordinary.",
       "handle": "shorts",
@@ -626,15 +626,15 @@
       ]
     },
     {
-      "title": "Medusa Hoodie",
+      "title": "Kirana Hoodie",
       "subtitle": null,
       "description": "Reimagine the feeling of a classic hoodie. With our cotton hoodie, everyday essentials no longer have to be ordinary.",
       "handle": "hoodie",
       "is_giftcard": false,
       "weight": 400,
       "images": [
-        "https://medusa-public-images.s3.eu-west-1.amazonaws.com/black_hoodie_front.png",
-        "https://medusa-public-images.s3.eu-west-1.amazonaws.com/black_hoodie_back.png"
+        "https://Kirana-public-images.s3.eu-west-1.amazonaws.com/black_hoodie_front.png",
+        "https://Kirana-public-images.s3.eu-west-1.amazonaws.com/black_hoodie_back.png"
       ],
       "options": [
         {
@@ -726,7 +726,7 @@
       ]
     },
     {
-      "title": "Medusa Longsleeve",
+      "title": "Kirana Longsleeve",
       "subtitle": null,
       "description": "Reimagine the feeling of a classic longsleeve. With our cotton longsleeve, everyday essentials no longer have to be ordinary.",
       "handle": "longsleeve",
@@ -826,7 +826,7 @@
       ]
     },
     {
-      "title": "Medusa Coffee Mug",
+      "title": "Kirana Coffee Mug",
       "subtitle": null,
       "description": "Every programmer's best friend.",
       "handle": "coffee-mug",
